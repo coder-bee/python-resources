@@ -7,6 +7,8 @@
 
 [Think Python](http://greenteapress.com/thinkpython/html/index.html) - slightly advanced
 
+[The Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
+
 (more can be found as PDFs in the books folder)
 
 
