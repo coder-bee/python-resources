@@ -29,4 +29,6 @@
 
 [Python's own tutorial for beginners](https://docs.python.org/3/tutorial/)
 
+[Python's style guide](https://www.python.org/dev/peps/pep-0008/)
+
 [Overview of python modules/libraries](https://pymotw.com/3/)
