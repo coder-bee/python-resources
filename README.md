@@ -17,9 +17,9 @@
 
 [Google's Python course](https://developers.google.com/edu/python/introduction?csw=1)
 
-[Codeacademy Python course](https://www.codecademy.com/tracks/python)
+[Codeacademy Python course](https://www.codecademy.com/tracks/python) - in browser, ideal for people who are new to programming and have little time to dedicate to learning
 
-[EDX self-paced course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11#.VJw5pv-kAA)
+[EDX self-paced course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11#.VJw5pv-kAA) - free to take, requires a bit of tech knowledge, 99 USD for certification, requires more time and effort
 
 [MIT's gentle introduction to programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
 
